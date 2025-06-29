@@ -36,11 +36,6 @@ sudo pacman -S fuse3 gcc make
 make
 ```
 
-Ou use o script de compilação:
-```bash
-./compile.sh
-```
-
 ## Uso
 
 ```bash
